@@ -1,8 +1,11 @@
 {
-  "name": "Figma Plugin Tailwind Starter",
-  "id": "",
+  "name": "Scale››better",
+  "id": "962438678016435824",
   "api": "1.0.0",
   "main": "dist/code.js",
   "ui": "dist/ui.html",
-  "editorType": ["figma", "figjam"]
+  "editorType": ["figma", "figjam"],
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
 }
